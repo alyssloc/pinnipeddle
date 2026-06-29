@@ -70,7 +70,7 @@ export default function PinnipedDoodle() {
             boxShadow: '0 8px 24px rgba(0,0,0,0.1)', 
             color: '#08022e' 
         }}>
-            <h1 style={{ color: '#1a1a1a' }}>Pinnipedoodle</h1>
+            <h1 style={{ color: '#1a1a1a' }}>Pinnipeddle</h1>
             <p style={{ color: '#1a1a1a' }}>Attempts: {attempts} / {MAX_ATTEMPTS}</p>
             
             <div className="clues-box" style={{ 
